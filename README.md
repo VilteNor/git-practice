@@ -9,3 +9,10 @@
 - JavaScript
 - Kotlin
 - Python
+
+**Hobbies**: 
+- Movies
+- Photography
+- Travelling
+- Swimming
+- Yoga
